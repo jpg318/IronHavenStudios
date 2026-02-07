@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__unreal-editor__get_project_info",
+      "mcp__unreal-editor__execute_python"
+    ]
+  }
+}
